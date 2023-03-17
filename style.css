@@ -1,0 +1,9 @@
+body {
+    background-image: url("img/gato.gif");
+    border: 10px groove hsl(249, 100%, 52%);
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #0000ff;
+    text-decoration-line: overline;
+}
+h1 {
+    color: hsl(0, 0%, 100%);
+}
